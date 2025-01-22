@@ -7,4 +7,6 @@ This Power BI project presents a comprehensive dashboard that integrates and vis
 
 ![IMAGE](images/healthcare 1.JPG)
 
+./images/healthcare%201.JPG
+
 
