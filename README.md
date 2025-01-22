@@ -7,4 +7,4 @@ This Power BI project presents a comprehensive dashboard that integrates and vis
 
 !(images/healthcare 1.JPG)
 !images/healthcare 1.JPG
-![Healthcare Image](./images/healthcare%201.JPG
+![Healthcare Image](./images/healthcare 1.JPG)
