@@ -9,6 +9,23 @@ This Power BI project presents a comprehensive dashboard that integrates and vis
 
 ![OVERVIEW](images/healthcare_1.JPG)
 
+## 2ND
 
 
+![OVERVIEW](images/healthcare_2.JPG)
+## OVERVIEW
+
+
+![OVERVIEW](images/healthcare_3.JPG)
+## OVERVIEW
+
+
+![OVERVIEW](images/healthcare_4.JPG)
+## OVERVIEW
+
+
+![OVERVIEW](images/healthcare_5.JPG)
+## KPIs
+
+![OVERVIEW](images/healthcare_6.JPG)
 
