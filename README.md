@@ -22,13 +22,18 @@ The Financial Insights section focuses on tracking the hospital's financial perf
 ![OVERVIEW](images/healthcare_3.JPG)
 ## MEDICAL CONDOTION ANALYSIS
 
+The Medical Condition Analysis section aims to identify trends related to patient diagnoses and outcomes. It highlights the frequency of top medical conditions, tracks the average duration of stay for specific conditions, and correlates conditions with discharge outcomes, such as recovery times or test results. Filters for medical condition, admission type, and doctor allow for focused insights into how different conditions are treated and managed, helping improve care and identify areas for improvement.
+
+
 
 ![OVERVIEW](images/healthcare_4.JPG)
-## OVERVIEW
+## HOSPITAL PERFORMANCE
 
+The Hospital Performance section helps evaluate hospital and room utilization, as well as doctor efficiency. Key visuals include tracking room occupancy over time, monitoring the number of patients managed by each doctor, and analyzing admission types across different hospitals. It also provides a comparison of billing performance across hospitals to highlight areas of strength or concern. Filters for date range, doctor, and hospital allow for focused analysis, enabling a deeper understanding of hospital operations and performance.
 
 ![OVERVIEW](images/healthcare_5.JPG)
 ## KPIs
+The KPIs (Key Performance Indicators) page provides a snapshot of critical metrics to assess hospital performance. It tracks essential factors like patient volume, average length of stay, occupancy rate, and financial performance, offering insights into both operational efficiency and patient care quality. By monitoring these indicators, hospitals can make data-driven decisions to improve care, optimize resources, and enhance financial outcomes.
 
 ![OVERVIEW](images/healthcare_6.JPG)
 
