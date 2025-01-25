@@ -9,8 +9,9 @@ This Power BI project presents a comprehensive dashboard that integrates and vis
 
 ![OVERVIEW](images/healthcare_1.JPG)
 
-## 2ND
+## [PATIENTS DETAILS]
 
+The detailed view offers patient-level information, including medical condition, admission and discharge dates, length of stay, billing amount, room number, and attending doctor. Filters enable users to focus on specific doctors, room numbers, or medical conditions for a more tailored analysis. Conditional formatting is applied to highlight long stays and high billing amounts, making it easy to identify outliers. This layout provides a comprehensive and insightful look at patient data for better decision-making and monitoring.
 
 ![OVERVIEW](images/healthcare_2.JPG)
 ## OVERVIEW
