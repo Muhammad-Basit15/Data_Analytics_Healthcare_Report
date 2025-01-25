@@ -11,10 +11,12 @@ This Power BI project presents a comprehensive dashboard that integrates and vis
 
 ## [PATIENTS DETAILS]
 
-The detailed view offers patient-level information, including medical condition, admission and discharge dates, length of stay, billing amount, room number, and attending doctor. Filters enable users to focus on specific doctors, room numbers, or medical conditions for a more tailored analysis. Conditional formatting is applied to highlight long stays and high billing amounts, making it easy to identify outliers. This layout provides a comprehensive and insightful look at patient data for better decision-making and monitoring.
+The detailed view offers patient-level information, including medical condition, length of stay, billing amount, room number, and attending doctor. Filters enable users to focus on specific doctors, room numbers, or medical conditions for a more tailored analysis. Conditional formatting is applied to highlight long stays and high billing amounts, making it easy to identify outliers. This layout provides a comprehensive and insightful look at patient data for better decision-making and monitoring.
 
 ![OVERVIEW](images/healthcare_2.JPG)
-## OVERVIEW
+## [FINANCIAL INSIGHTS]
+
+The Financial Insights section focuses on tracking the hospital's financial performance and identifying billing trends. Key visuals include a bar or column chart displaying billing amounts by insurance provider, a comparative analysis of billing by hospital, and a list of the top 10 high billing cases. A line chart shows billing trends over time, segmented by month or week, to identify fluctuations. Filters allow users to drill down by insurance provider, hospital, and admission type for more detailed financial analysis.
 
 
 ![OVERVIEW](images/healthcare_3.JPG)
